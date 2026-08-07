@@ -4,8 +4,14 @@ export default function Home() {
   return (
     <div>
       Hello World.{" "}
-      <Link href="/about">
-        About
+      <Link href="/NewDialogue">
+        New Dialogue
+      </Link>
+      <Link href="/HowTo">
+        How to
+      </Link>
+      <Link href="/Saved">
+        Saved
       </Link>
     </div>
   );
